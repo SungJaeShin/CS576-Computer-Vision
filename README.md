@@ -3,4 +3,4 @@
 Assignment 1. Image Classification using Bag of Visual Words (BoVW) \
 Assignment 2. Image Classification using Convolutional Neural Networks (CNNs) \
 Assignment 3. Object Detection using YOLO v1 
-
+Assignment 4. Visual Object Tracking using SiamFC 
