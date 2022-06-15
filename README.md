@@ -12,3 +12,8 @@ Assignment 4. Visual Object Tracking using SiamFC
 - Assignment 4: 107 / 110
 
 ![Results](https://user-images.githubusercontent.com/67855888/173229059-fe939c9b-3276-42a3-b770-62548b134f9b.png)
+
+
+### Feedback
+- Assignment 2: 
+  * P1: Reusing a single convolution layer self.conv twice (you should have both self.conv1 and self.conv2)
